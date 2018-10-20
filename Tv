@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- LISTA DE CANALES --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- www.NibbleTV.info --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",DONAR en NibbleTV.info/Donar
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- ABIERTOS --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/america-tv.png" group-title="ABIERTOS",America TV
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/America-TV.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/antena-3.png" group-title="ABIERTOS",Antena 3
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Antena-3.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/azteca-13.png" group-title="ABIERTOS",Azteca 13
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Azteca-13.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/azteca-7.png" group-title="ABIERTOS",Azteca 7
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Azteca-7.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/canal-26.png" group-title="ABIERTOS",Canal 26
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Canal-26.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/caracol.png" group-title="ABIERTOS",Caracol
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Caracol.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/las-estrellas.png" group-title="ABIERTOS",Las Estrellas
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Las-Estrellas.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tv-publica.png" group-title="ABIERTOS",TV Publica
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/TV-Publica.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/telefe.png" group-title="ABIERTOS",Telefe
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Telefe.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/telemundo.png" group-title="ABIERTOS",Telemundo
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Telemundo.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- DEPORTES --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/bein-sports.png" group-title="DEPORTES",Bein Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Bein-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/claro-sports.png" group-title="DEPORTES",Claro Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Claro-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/cdf-premium.png" group-title="DEPORTES",CDF Premium
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/CDF-Premium.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/deportv.png" group-title="DEPORTES",DeporTV
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/DeporTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/directv-sports.png" group-title="DEPORTES",DirecTV Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/DirecTV-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tyc-sports.png" group-title="DEPORTES",TyC Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/TyC-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espnmas.png" group-title="DEPORTES",ESPNmas
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPNmas.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn.png" group-title="DEPORTES",ESPN
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPN.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-2.png" group-title="DEPORTES",ESPN 2
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPN-2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-3.png" group-title="DEPORTES",ESPN 3
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPN-3.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-mx.png" group-title="DEPORTES",ESPN MX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPN-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-2-mx.png" group-title="DEPORTES",ESPN 2 MX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPN-2-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-3-mx.png" group-title="DEPORTES",ESPN 3 MX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/ESPN-3-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports.png" group-title="DEPORTES",Fox Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-2.png" group-title="DEPORTES",Fox Sports 2
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports-2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-3.png" group-title="DEPORTES",Fox Sports 3
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports-3.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-mx.png" group-title="DEPORTES",Fox Sports MX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-2-mx.png" group-title="DEPORTES",Fox Sports 2 MX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports-2-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-3-mx.png" group-title="DEPORTES",Fox Sports 3 MX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports-3-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-premium.png" group-title="DEPORTES",Fox Sports Premium
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Sports-Premium.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tnt-sports.png" group-title="DEPORTES",TNT Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/TNT-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/movistar-futbol.png" group-title="DEPORTES",Movistar Futbol
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Movistar-Futbol.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/movistar-f1.png" group-title="DEPORTES",Movistar F1
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Movistar-F1.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/garage-tv.png" group-title="DEPORTES",Garage TV
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Garage-TV.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/ufc-network.png" group-title="DEPORTES",UFC Network
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/UFC-Network.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/win-sports.png" group-title="DEPORTES",Win Sports
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Win-Sports.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- EVENTOS --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",Colon vs River | Superliga 2018-2019 Fecha 9 | 21:15hs (Argentina GTM-3)
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Colon-vs-River-%7C-Superliga-2018-2019-Fecha-9-%7C-21%3A15hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Defensa y Justicia 2 Talleres 0 | Superliga 2018-2019 Fecha 9
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/RESUMEN%3A-Defensa-y-Justicia-2-Talleres-0-%7C-Superliga-2018-2019-Fecha-9.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Velez 1 Gimnasia 0 | Superliga 2018-2019 Fecha 9
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/RESUMEN%3A-Velez-1-Gimnasia-0-%7C-Superliga-2018-2019-Fecha-9.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Mexico 0 Chile 1 | Amistoso Internacional 2018
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/RESUMEN%3A-Mexico-0-Chile-1-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Estados Unidos 1 Peru 1 | Amistoso Internacional 2018
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/RESUMEN%3A-Estados-Unidos-1-Peru-1-%7C-Amistoso-Internacional-2018.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- INFANTILES --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/boomerang.png" group-title="INFANTILES",Boomerang
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/cartoon-network.png" group-title="INFANTILES",Cartoon Network
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Cartoon-Network.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/discovery-kids.png" group-title="INFANTILES",Discovery Kids
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Discovery-Kids.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/disney-channel.png" group-title="INFANTILES",Disney Channel
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Disney-Channel.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/disney-xd.png" group-title="INFANTILES",Disney XD
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Disney-XD.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/nickelodeon.png" group-title="INFANTILES",Nickelodeon
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tooncast.png" group-title="INFANTILES",Tooncast
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Tooncast.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- CULTURA --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/animal-planet.png" group-title="CULTURA",Animal Planet
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/discovery-channel.png" group-title="CULTURA",Discovery Channel
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Discovery-Channel.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/discovery-turbo.png" group-title="CULTURA",Discovery Turbo
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Discovery-Turbo.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/h2.png" group-title="CULTURA",H2
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/H2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/natgeo.png" group-title="CULTURA",NatGeo
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/NatGeo.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/natgeo-wild.png" group-title="CULTURA",NatGeo Wild
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/NatGeo-Wild.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tlc.png" group-title="CULTURA",TLC
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/TLC.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-life.png" group-title="CULTURA",Fox Life
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Life.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/el-gourmet.png" group-title="CULTURA",El Gourmet
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/El-Gourmet.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/investigation-discovery.png" group-title="CULTURA",Investigation Discovery
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Investigation-Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- ENTRETENIMIENTO --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/amc.png" group-title="ENTRETENIMIENTO",AMC
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/AMC.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/AXN.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/cinecanal.png" group-title="ENTRETENIMIENTO",Cinecanal
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Cinecanal.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/cinemax.png" group-title="ENTRETENIMIENTO",Cinemax
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Cinemax.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/comedy-central.png" group-title="ENTRETENIMIENTO",Comedy Central
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Comedy-Central.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/de-pelicula.png" group-title="ENTRETENIMIENTO",De Pelicula
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/De-Pelicula.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/distrito-comedia.png" group-title="ENTRETENIMIENTO",Distrito Comedia
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Distrito-Comedia.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fx.png" group-title="ENTRETENIMIENTO",FX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/FX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox.png" group-title="ENTRETENIMIENTO",FOX
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/FOX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/space.png" group-title="ENTRETENIMIENTO",Space
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Space.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tnt.png" group-title="ENTRETENIMIENTO",TNT
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/TNT.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tnt-series.png" group-title="ENTRETENIMIENTO",TNT Series
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/TNT-Series.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/warner-channel.png" group-title="ENTRETENIMIENTO",Warner Channel
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Warner-Channel.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- PREMIUM --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-action.png" group-title="PREMIUM",Fox Action
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Action.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-cinema.png" group-title="PREMIUM",Fox Cinema
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Fox-Cinema.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/hbo.png" group-title="PREMIUM",HBO
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/HBO.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/hbo-2.png" group-title="PREMIUM",HBO 2
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/HBO-2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/hbo-family.png" group-title="PREMIUM",HBO Family
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/HBO-Family.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- MUSICA --
+http://tvg.nibbletv.info/ts/ts_ntv.ts
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/hit-tv.png" group-title="MUSICA",HIT TV
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/HIT-TV.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/mtv.png" group-title="MUSICA",MTV
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/MTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/mtv-hits.png" group-title="MUSICA",MTV Hits
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/MTV-Hits.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/vh1.png" group-title="MUSICA",VH1
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/VH1.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/music-choice-tropicales.png" group-title="MUSICA",Music Choice Tropicales
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Music-Choice-Tropicales.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/rock-nacional-tv.png" group-title="MUSICA",Rock Nacional TV
+http://tvg.nibbletv.info/CH/HGYcqcFjgIWD/Rock-Nacional-TV.m3u8
